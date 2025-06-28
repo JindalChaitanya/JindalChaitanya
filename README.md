@@ -51,7 +51,7 @@ An interactive desktop tool for **batch object detection & image cropping**, bui
 * 🔹 Visual validation with bounding‑box overlays
 * 🔹 Save individual, page‑level, or full‑dataset crops
 
-[🔗 Explore on GitHub](https://github.com/JindalChaitanya/CropVision)
+🔗 [Explore on GitHub](https://github.com/JindalChaitanya/CropVision)
 
 ---
 
@@ -64,7 +64,7 @@ A CNN model for **early detection of Alzheimer’s** using MRI scans.
 * 🔹 Robust via data augmentation & advanced preprocessing
 * 🔹 Demonstrates AI’s impact in medical diagnostics
 
-[🔗 View Code & Results](https://github.com/JindalChaitanya/Early-Alzheimers-Prediction)
+🔗 [View Code & Results](https://github.com/JindalChaitanya/Alzheimer-Guardian)
 
 ---
 
